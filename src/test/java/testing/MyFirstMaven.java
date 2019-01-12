@@ -10,6 +10,8 @@ public class MyFirstMaven {
 	WebDriver driver;
   @Test
   public void f() {
+	  //New changes done here.......
+	  System.out.println("Here.......");
   }
   @BeforeClass
   public void beforeClass() {
